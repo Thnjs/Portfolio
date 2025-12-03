@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Personal portfolio website of Thanush Raju Kaneshan",
   "private": true,
+  "homepage": "https://thnjs.github.io/Portfolio",
   "dependencies": {
     "@react-pdf/renderer": "^2.2.0",
     "@testing-library/jest-dom": "^5.16.2",
